@@ -1,0 +1,4 @@
+rm -rf FILE_CLONING
+git clone https://github.com/ASMATKHAN1/FILE_CLONING
+cd FILE_CLONING
+python FILE.py
